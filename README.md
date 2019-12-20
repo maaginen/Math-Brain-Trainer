@@ -3,7 +3,7 @@ Easy math game with timer and score.
 
 # Version 1.0.0
 
-#Usage
+# Usage
 APK is located in app\build\outputs\apk\debug
 
 # Build with
